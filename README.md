@@ -35,5 +35,5 @@ Funcionalidades:
   //--- Tarefa 10.2: Retorna o JSON convertido em array ---
   lerJSON(texto)
 
-  //--- Tarefa 11: Gera um relatório da loja ---
+  //--- Tarefa 11: Gera um relatório da loja ---\n
   gerarRelatorio(nome, lista)
