@@ -23,17 +23,17 @@ Funcionalidades:
   //--- Tarefa 7: Altera o preço dos produtos da categoria informada aplicando o desconto informado ---
   aplicarDesconto(lista, categoria, percentual)
 
-  //--- Tarefa 8: Registra a venda de um produto, alterando a quantidade em estoque e de vendidos ---
+  //--- Tarefa 8: Registra a venda de um produto, alterando a quantidade em estoque e de vendidos ---\
   registrarVenda(lista, nome, quantidade)
 
-  //--- Tarefa 9: Retorna o texto sem espaços nas pontas, com a primeira letra maiúscula e o restante em minúsculas ---
+  //--- Tarefa 9: Retorna o texto sem espaços nas pontas, com a primeira letra maiúscula e o restante em minúsculas ---\
   formatarNome(texto)
 
-  //--- Tarefa 10.1: Retorna o array convertido em texto JSON ---
+  //--- Tarefa 10.1: Retorna o array convertido em texto JSON ---\
   converterParaJSON(lista)
   
-  //--- Tarefa 10.2: Retorna o JSON convertido em array ---
+  //--- Tarefa 10.2: Retorna o JSON convertido em array ---\
   lerJSON(texto)
 
-  //--- Tarefa 11: Gera um relatório da loja ---
+  //--- Tarefa 11: Gera um relatório da loja ---\
   gerarRelatorio(nome, lista)
