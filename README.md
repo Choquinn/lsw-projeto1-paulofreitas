@@ -5,22 +5,22 @@ Aluno(a): Paulo Henrique Pereira de Freitas - 202612010012
 Como executar: node loja.js
 
 Funcionalidades:
-  //--- Tarefa 2: Lista todo o catálogo de produtos ---
+  //--- Tarefa 2: Lista todo o catálogo de produtos ---\
   listarProdutos(lista)
 
-  //--- Tarefa 3: Cadastra um produto, adiciona na lista fornecida e retorna a quantidade de produtos ---]
+  //--- Tarefa 3: Cadastra um produto, adiciona na lista fornecida e retorna a quantidade de produtos ---\
   cadastrarProduto(lista, nome, categoria, preco, qtd)
 
-  //--- Tarefa 4: Calcula o valor total do estoque
+  //--- Tarefa 4: Calcula o valor total do estoque ---\
   calcularValorEstoque(lista)
 
-  //--- Tarefa 5: Procura o primeiro produto com o nome igual ao fornecido e o retorna ---
+  //--- Tarefa 5: Procura o primeiro produto com o nome igual ao fornecido e o retorna ---\
   buscarProduto(lista, nome)
 
-  //--- Tarefa 6: Retorna um novo array onde os itens tem a quantidade menor que o minimo ---
+  //--- Tarefa 6: Retorna um novo array onde os itens tem a quantidade menor que o minimo ---\
   produtosEmFalta(lista, minimo)
 
-  //--- Tarefa 7: Altera o preço dos produtos da categoria informada aplicando o desconto informado ---
+  //--- Tarefa 7: Altera o preço dos produtos da categoria informada aplicando o desconto informado ---\
   aplicarDesconto(lista, categoria, percentual)
 
   //--- Tarefa 8: Registra a venda de um produto, alterando a quantidade em estoque e de vendidos ---\
