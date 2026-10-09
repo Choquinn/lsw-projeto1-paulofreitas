@@ -8,7 +8,7 @@ Funcionalidades:
   //--- Tarefa 2: Lista todo o catálogo de produtos ---
   listarProdutos(lista)
 
-  //--- Tarefa 3: Cadastra um produto, adiciona na lista fornecida e retorna a quantidade de produtos ---
+  //--- Tarefa 3: Cadastra um produto, adiciona na lista fornecida e retorna a quantidade de produtos ---]
   cadastrarProduto(lista, nome, categoria, preco, qtd)
 
   //--- Tarefa 4: Calcula o valor total do estoque
