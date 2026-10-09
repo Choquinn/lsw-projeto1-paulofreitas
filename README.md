@@ -4,7 +4,7 @@ Aluno(a): Paulo Henrique Pereira de Freitas - 202612010012
 
 Como executar: node loja.js
 
-Funcionalidades:
+Funcionalidades:  \
   //--- Tarefa 2: Lista todo o catálogo de produtos ---\
   listarProdutos(lista)
 
